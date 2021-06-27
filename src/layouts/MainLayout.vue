@@ -12,7 +12,7 @@
         />
 
         <img 
-          src="~/assets/logo.png" 
+          src="~/assets/logo.svg" 
           alt="logo" 
           style="height: 3rem; width: 2rem; margin-left: 0.3rem;" 
         />
